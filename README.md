@@ -28,7 +28,7 @@
 
 ## 🔗 Demo video link
 
-[![thumbnail](https://github.com/dsc-sookmyung/2023-High-Light-SolutionChallenge/assets/96654391/11f11580-4f34-441f-baff-46698562a6f2)](https://www.youtube.com/watch?v=6Fq0GgznjZw)
+[![thumbnail](https://github.com/dsc-sookmyung/2023-High-Light-SolutionChallenge/assets/96654391/11f11580-4f34-441f-baff-46698562a6f2)]([https://www.youtube.com/watch?v=6Fq0GgznjZw](https://youtu.be/cn0EInrFsuM))
 
 
 ## 📱 How to use Le-Turn?
